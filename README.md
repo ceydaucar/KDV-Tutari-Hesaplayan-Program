@@ -1,5 +1,5 @@
 # KDV-Tutari-Hesaplayan-Program
-Patika.dev > Java101 > Pratik2 - KDV Tutarı Hesaplayan Program
+Patika.dev > Java101 > Temel Kavramlar ve Değişkenler > Pratik2 - KDV Tutarı Hesaplayan Program
 
 ## Java ile kullanıcıdan alınan para değerinin KDV'li fiyatını ve KDV tutarını hesaplayıp ekrana bastıran programı yazın. 
 * (Not : KDV tutarını 18% olarak alın)
