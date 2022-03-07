@@ -33,4 +33,5 @@ Patika.dev > Java101 > Pratik2 - KDV Tutarı Hesaplayan Program
 							+ "KDV tutarı: "+ kdv8
 							+ "\nKDV'siz fiyat: " + miktar
 					 		+ "\nKDV'li fiyat: " + (miktar + kdv8));
-			}}
+			}
+		}
