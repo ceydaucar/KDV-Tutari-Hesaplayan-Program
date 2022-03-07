@@ -12,6 +12,7 @@ Patika.dev > Java101 > Pratik2 - KDV Tutarı Hesaplayan Program
 	public class pratik2;
 		public static void main(String[] args) {
 
+		public static void main(String[] args);
 			//Kullanıcıdan para değerini al.
 			System.out.println("Ücret miktarını giriniz: ");
 			int miktar = sc.nextInt();
