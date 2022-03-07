@@ -8,10 +8,9 @@ Patika.dev > Java101 > Pratik2 - KDV Tutarı Hesaplayan Program
 * KDV tutarı = 1.8;
 * Eğer girilen tutar 0 ve 1000 TL arasında ise KDV oranı %18 , tutar 1000 TL'den büyük ise KDV oranını %8 olarak KDV tutarı hesaplayan programı yazınız.
 
+
 	import java.util.*;
 	public class pratik2;
-		public static void main(String[] args) {
-
 		public static void main(String[] args);
 			//Kullanıcıdan para değerini al.
 			System.out.println("Ücret miktarını giriniz: ");
